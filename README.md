@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust & Sewing**
 
-- 👨‍💻 My website is at [jetpham.com](jetpham.com)
+- 👨‍💻 My website is at ([jetpham.com](https://jetpham.com))
 
 - 📫 How to reach me **jetthomaspham@gmail.com**
 
